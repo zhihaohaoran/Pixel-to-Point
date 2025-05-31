@@ -5,7 +5,7 @@
 ### Running
 **MOGP**:
 ```shell
-python MOGP/top_four_contribution.py #Find the image from a perspective that contributes most to SfM points cloud.
-python MOGP/mogp_train.py #Training MOGP model
-python MOGP/predict.py #Predict high quality dense points cloud.
+python top_four_contribution.py #Find the image from a perspective that contributes most to SfM points cloud.
+python mogp_train.py #Training MOGP model
+python predict.py #Predict high quality dense points cloud.
 ```
